@@ -6,7 +6,8 @@ import pandas as pd
 ###############
 st.set_page_config(
     page_icon = "📘",
-    page_title = "Documentation"
+    page_title = "Documentation",
+    layout="wide"
 )
 ################
 # PAGE CONTENT #
